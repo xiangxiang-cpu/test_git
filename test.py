@@ -4,6 +4,7 @@ from numpy import *
 # 再加一行注释，修改
 # 从github网页上再加一行，对这一行进行修改，再次修改
 # 本地的一行注释
+# 本地功能2
 
 # 构造数据
 def loadDataSet():
