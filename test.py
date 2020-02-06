@@ -1,6 +1,7 @@
 from numpy import *
 
 # 加了一行注释
+# 再加一行注释
 
 # 构造数据
 def loadDataSet():
