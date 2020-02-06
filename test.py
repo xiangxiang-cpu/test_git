@@ -2,7 +2,7 @@ from numpy import *
 
 # 加了一行注释
 # 再加一行注释
-# 从github网页上再加一行
+# 从github网页上再加一行，对这一行进行修改
 
 # 构造数据
 def loadDataSet():
